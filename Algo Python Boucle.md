@@ -392,6 +392,9 @@ for i in range(n):
      ######
      #######
    ```
+Réponse:
+for i in range(1, 8):  # Loop from 1 to 7
+    print("#" * i)  # Print '#' repeated i times
 
 4. Use nested loops to create the following:
 
